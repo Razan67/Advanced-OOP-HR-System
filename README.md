@@ -4,7 +4,7 @@ A Java application for managing employees, payroll, and leave requests, designed
 
 # Overview
 
-This project is a comprehensive Human Resources (HR) Management System developed in Java. It is designed to demonstrate advanced object-oriented programming (OOP) concepts, design patterns, and principles such as SOLID, Factory, Facade, and Strategy.
+This project is a comprehensive Human Resources (HR) Management System developed in Java. It is designed to demonstrate **advanced object-oriented programming (OOP)** concepts, **design patterns**, and principles such as **SOLID**, **Factory**, **Facade**, and **Strategy**.
 
 The system provides a console-based interface for managing employees, departments, payroll, and leave requests. It utilizes file-based persistence to simulate a database environment.
 
