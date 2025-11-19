@@ -76,7 +76,19 @@ Advanced-final/
 # UML Diagrams
 The following Class Diagram illustrates the structure and relationships between the core components of the HR System.
 
-![HR System Class Diagram](Advanced-UML-V2.drawio.png)
+
+The design of the system is based on the **Class Diagram** which illustrates the relationships and structure of the classes.
+
+**Final Design Diagram:**
+
+![HR System Class Diagram](assets/Advanced-UML-V2.drawio.png)
+
+**Initial Design Diagram (Optional):**
+
+![Initial HR System Class Diagram](assets/Advanced-UML.drawio.png)
+
+It is highly recommended to include the final UML diagram in the repository's root directory and link to it in this README for visual documentation of the system architecture.
+
 
 The design of the system is based on the Class Diagram which illustrates the relationships and structure of the classes.
 
