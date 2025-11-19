@@ -68,6 +68,40 @@ Advanced-final/
 │       └── ... (Database and other utility classes)
 └── Dataset-20250902/
     ├── departments.txt             # Data file for departments
+```
+# UML Diagrams
+
+The design of the system is based on the Class Diagram which illustrates the relationships and structure of the classes.
+
+•
+Advanced-UML.drawio.png (or similar file) shows the initial or final design of the system's classes.
+
+It is highly recommended to include the final UML diagram in the repository's root directory and link to it in this README for visual documentation of the system architecture.
+
+Installation and Execution
+
+Prerequisites
+
+•
+Java Development Kit (JDK) 8 or higher.
+
+•
+An IDE like Eclipse or IntelliJ IDEA is recommended for easy project setup.
+
+Running from Command Line
+
+1.
+Navigate to the project root:
+
+2.
+Compile the source code:
+
+3.
+Run the application:
+
+The application will start the console-based HR System CLI.
+
+
     ├── employees_*.txt             # Data files for different employee types
     └── ... (other data files)
 
