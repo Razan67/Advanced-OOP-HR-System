@@ -83,21 +83,16 @@ The design of the system is based on the **Class Diagram** which illustrates the
 
 ![HR System Class Diagram](assets/Advanced-UML-V2.drawio.png)
 
-**Initial Design Diagram (Optional):**
+**Initial Design Diagram:**
 
 ![Initial HR System Class Diagram](assets/Advanced-UML.drawio.png)
 
-It is highly recommended to include the final UML diagram in the repository's root directory and link to it in this README for visual documentation of the system architecture.
 
 
 The design of the system is based on the Class Diagram which illustrates the relationships and structure of the classes.
 
-•
-Advanced-UML.drawio.png (or similar file) shows the initial or final design of the system's classes.
 
-It is highly recommended to include the final UML diagram in the repository's root directory and link to it in this README for visual documentation of the system architecture.
-
-Installation and Execution
+# Installation and Execution
 
 Prerequisites
 
@@ -109,14 +104,11 @@ An IDE like Eclipse or IntelliJ IDEA is recommended for easy project setup.
 
 Running from Command Line
 
-1.
-Navigate to the project root:
+1. Navigate to the project root:
 
-2.
-Compile the source code:
+2. Compile the source code:
 
-3.
-Run the application:
+3. Run the application:
 
 The application will start the console-based HR System CLI.
 
