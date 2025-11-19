@@ -1,0 +1,35 @@
+employee_id	full_name	date_of_birth	gender	email	phone_number	hire_date	job_title	employment_type	department_id	status	last_promotion_date	Password	salary_base
+E001	Jonathan English Jr.	1987-11-02	Male	gruiz@hotmail.com	-2781	2023-07-02	HR Specialist	Full-time	1	Terminated	2025-03-28	JE001	4562.48
+E003	Zachary Ellis	1995-09-15	Male	teresa44@smith.info	076-252-9512	2017-01-15	Consultant	Full-time	2	On Leave	2021-04-13	ZE003	6928.72
+E005	Scott Herman	1984-07-14	Male	rashley@wright.com	+1-726-730-5762x81090	2024-02-20	HR Specialist	Full-time	4	Active	2023-11-16	SE005	4507.2
+E009	Jeffrey Walton	1978-03-13	Male	cathy98@yahoo.com	-10370	2016-03-05	Developer	Full-time	2	On Leave	2023-12-30	JE009	9065.39
+E010	Karla Murphy	1970-08-29	Female	ftaylor@yahoo.com	(237)266-3982	2020-10-29	HR Specialist	Full-time	4	Terminated	2025-02-02	KE010	5591.27
+E013	Amber Alvarado	1986-11-29	Female	nharris@thomas-krause.com	293.783.3744	2021-06-17	Manager	Full-time	3	On Leave	2024-08-20	AE013	8635.32
+E015	Austin Ali	1975-12-01	Male	coxronald@hotmail.com	330.799.9066x8846	2023-11-27	HR Specialist	Full-time	4	Terminated	2024-11-07	AE015	4726.39
+E023	Samuel Meyer	1996-03-17	Male	johnsonedward@gmail.com	(584)685-8940	2019-04-04	HR Specialist	Full-time	2	Active	2021-01-04	SE023	6775.65
+E024	Bradley Johnson	1987-01-14	Male	qlyons@perkins.com	992.754.5914	2021-02-23	Analyst	Full-time	5	On Leave	2024-11-22	BE024	3783.07
+E026	Zachary Dennis	1996-11-23	Male	vvaughn@burns.biz	(984)964-8738x813	2021-10-09	Consultant	Full-time	4	Terminated	2021-12-09	ZE026	3898.74
+E029	Savannah Wells	2002-02-06	Female	derek90@patton-caldwell.com	+1-721-251-4934x066	2023-03-27	Developer	Full-time	5	Active	2022-12-26	SE029	4572.88
+E031	Margaret Keller	1971-09-14	Female	mirandamackenzie@moore.com	(050)621-4798x99705	2017-11-28	Developer	Full-time	1	Terminated	2022-01-06	ME031	9017.45
+E032	Christina Andrews	1989-09-13	Female	chavezjohn@gmail.com	+1-689-209-1609x500	2020-01-10	Analyst	Full-time	2	Terminated	2023-03-21	CE032	6774.64
+E038	Karen Parrish	1982-08-25	Female	krobertson@may.com	+1-618-874-2649x028	2023-05-25	Consultant	Full-time	1	Active	2024-10-18	KE038	9782.97
+E039	Mark Schultz	1965-01-26	Male	heathersexton@hotmail.com	(060)820-0695x23676	2020-03-24	Analyst	Full-time	4	Active	2020-11-11	ME039	9052.55
+E044	Angela Floyd	1986-07-04	Female	baileydonna@gmail.com	757-381-5121x7734	2015-08-01	Developer	Full-time	1	Terminated	2024-08-12	AE044	3479.65
+E047	Jessica Munoz	1985-02-14	Female	donald63@yahoo.com	208-612-8410x55735	2020-11-27	HR Specialist	Full-time	3	Terminated	2023-10-10	JE047	4859.3
+E048	Andrew Hanson	1974-05-17	Male	reginamartin@gmail.com	143.484.9424x12672	2020-12-13	HR Specialist	Full-time	3	Terminated	2020-09-14	AE048	3065.21
+E049	Wendy Cruz	1976-02-14	Female	summeroconnor@johnson.com	+1-108-204-4182x75025	2016-04-02	Consultant	Full-time	1	On Leave	2025-04-13	WE049	6541.19
+E051	David Bradley	1977-02-21	Male	shari37@schmidt.com	001-714-255-9606x3894	2022-05-31	Consultant	Full-time	3	On Leave	2022-04-16	DE051	7675.04
+E052	Alison Cross	1997-11-13	Female	lindaray@powell.com	2598399961	2017-03-04	HR Specialist	Full-time	1	Active	2023-08-05	AE052	9227.99
+E053	Ruth Long	1997-07-22	Female	stevensdenise@gmail.com	107-523-5164x4470	2022-01-28	Consultant	Full-time	3	Terminated	2023-05-11	RE053	8023.29
+E055	Raymond Cortez	1994-11-25	Male	jill91@hotmail.com	695017733	2024-06-24	Developer	Full-time	4	Terminated	2022-11-17	RE055	5334.9
+E058	Shannon Cruz	1987-09-28	Female	christine56@hotmail.com	601.348.0896	2023-08-10	Analyst	Full-time	5	Active	2024-02-19	SE058	3292.8
+E060	Corey Carter	1966-08-09	Female	bethsampson@hotmail.com	036.613.3927	2017-06-28	Manager	Full-time	5	On Leave	2021-07-01	CE060	9052.24
+E066	Matthew Thomas	1997-07-23	Male	aarongarcia@cook.biz	001-696-294-7205x2880	2018-06-18	HR Specialist	Full-time	1	Active	2024-11-20	ME066	7064.13
+E069	Alexis Tucker	2002-06-19	Male	douglas85@gmail.com	937137557	2023-11-11	Analyst	Full-time	1	Terminated	2022-03-10	AE069	6639.44
+E070	Jared Burke	2001-03-27	Male	brittany30@hotmail.com	(287)240-8949x745	2021-10-13	Analyst	Full-time	2	Terminated	2023-10-09	JE070	9642.12
+E078	Gary Bailey	1983-07-09	Male	olivia10@gmail.com	714.249.3501	2018-04-17	HR Specialist	Full-time	2	Active	2021-09-12	GE078	8645.94
+E080	Austin Moses	1982-08-18	Male	jacqueline48@hotmail.com	710-735-2594	2019-07-01	Consultant	Full-time	4	On Leave	2025-06-12	AE080	8028.42
+E095	Darren Green	1969-12-12	Female	ryanfelicia@yahoo.com	514.614.2212	2019-05-26	Developer	Full-time	5	On Leave	2021-01-21	DE095	7499.25
+E098	Katherine Brown	1976-03-31	Female	gonzalezdale@hotmail.com	001-093-834-0562x91790	2020-11-21	Consultant	Full-time	1	Active	2023-12-18	KE098	9999.35
+E099	Lisa Herrera	1967-10-23	Female	salazarsusan@sims.com	195.140.0741	2016-07-26	Developer	Full-time	1	Active	2022-09-03	LE099	9647.28
+E100	Tracy Williams	1986-06-11	Female	rileyedward@hotmail.com	878-660-5092x415	2021-09-22	Manager	Full-time	5	Terminated	2022-04-13	TE100	6314.93

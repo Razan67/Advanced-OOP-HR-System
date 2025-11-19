@@ -1,0 +1,6 @@
+department_id	department_name	head_of_department_id	budget	location
+1	Engineering	E004	119755.1	Amsterdam
+2	Marketing	E006	75168.37	Tokyo
+3	HR	E002	166668.78	New York
+4	Finance	E005	66214.81	London
+5	Operations	E005	136369.51	Berlin

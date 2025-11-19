@@ -1,0 +1,35 @@
+employee_id	full_name	date_of_birth	gender	email	phone_number	hire_date	job_title	Employee_type	department_id	status	last_promotion_date	password	duration	overall_payment
+E007	Erika Jennings	1985-02-18	Female	phillipsapril@garcia-taylor.org	791-819-9039x020	2020-02-28	Analyst	Contractor	1	Active	2024-02-27	EE007	6	27500
+E011	Michelle Mccormick	2001-06-04	Male	qburns@hotmail.com	978-005-6080x417	2017-10-15	Developer	Contractor	3	Terminated	2024-10-07	ME011	36	200000
+E014	Marilyn Bullock	1990-05-30	Male	jordanrebecca@harvey-henson.org	(422)547-6400x193	2020-04-18	Consultant	Contractor	1	On Leave	2021-11-15	ME014	12	65000
+E018	Brandon Little	1966-04-02	Male	qtaylor@yahoo.com	932.378.9412x5865	2021-03-25	Manager	Contractor	2	On Leave	2021-03-04	BE018	12	63000
+E019	Stephen Sanchez	1979-02-11	Male	debramcdaniel@mcknight.org	749-133-3379x321	2017-03-06	Analyst	Contractor	4	Active	2023-03-06	SE019	6	29400
+E022	Jeffrey Johnson	1975-02-24	Male	tjohnston@chang-holder.org	-3268	2018-11-18	Developer	Contractor	2	Terminated	2021-10-12	JE022	36	19400
+E025	Brian Tucker	1994-08-01	Male	martinezmarcus@hotmail.com	(370)185-5221x1147	2021-12-11	Manager	Contractor	2	Terminated	2025-01-01	BE025	12	58200
+E027	Bryan Ramsey	1973-02-06	Male	owenspencer@ingram.net	001-732-912-2296x43470	2023-06-25	Consultant	Contractor	2	Terminated	2021-11-18	BE027	24	123700
+E030	Willie Norris	1999-04-28	Male	robinhill@gmail.com	+1-483-847-8780x036	2024-02-03	Manager	Contractor	5	Terminated	2021-05-21	WE030	12	60700
+E035	Willie Baker	1993-12-13	Male	millerbrandon@hickman-bryant.net	9396374825	2016-10-20	Analyst	Contractor	1	Active	2020-09-28	WE035	6	26800
+E041	Veronica Howard	1966-08-07	Female	noah65@gmail.com	(383)652-4049	2023-12-20	Consultant	Contractor	4	Active	2024-01-15	VE041	12	55400
+E042	Noah Simpson Jr.	1995-04-22	Male	thouston@king.com	2883149184	2017-12-17	Developer	Contractor	3	Terminated	2023-07-30	NE042	36	21400
+E043	Debra Carroll	1965-02-20	Female	omitchell@yahoo.com	6442215718	2022-01-11	Developer	Contractor	3	Active	2025-07-11	DE043	48	27400
+E045	Eric Wells	1995-11-22	Male	nguyennicholas@duncan.org	571.683.0838	2020-11-09	Developer	Contractor	2	Active	2022-07-11	EE045	48	26900
+E046	Dale Patrick	1999-02-16	Female	orobinson@munoz.com	001-876-167-6159x109	2020-11-19	Analyst	Contractor	5	On Leave	2025-01-13	DE046	9	50330
+E056	Tonya Yates	1975-02-24	Female	yangstacy@hotmail.com	6945358323	2021-06-21	Analyst	Contractor	3	Active	2024-10-16	TE056	9	47530
+E057	Kyle Berry	2001-03-17	Female	james82@robbins.info	001-411-009-3471x79034	2021-12-25	Manager	Contractor	1	Terminated	2025-06-07	KE057	12	66300
+E059	Patricia Jones	1978-11-21	Female	becky35@rosario-ramos.info	933.553.4014x7449	2022-10-21	Manager	Contractor	3	On Leave	2021-10-08	PE059	12	59200
+E071	Kathryn Miller	2000-10-07	Female	aaron30@gmail.com	735-793-6801x3892	2024-01-01	Developer	Contractor	3	On Leave	2023-12-31	KE071	12	62800
+E072	Ashley Lam	1972-08-31	Female	robert77@gray.com	8750358022	2018-08-26	Analyst	Contractor	4	Active	2021-08-23	AE072	6	35000
+E073	David Brown	1988-10-12	Male	stevenwilliamson@hotmail.com	-5368	2016-05-30	Analyst	Contractor	4	Terminated	2021-09-02	DE073	6	32000
+E074	Angie Davidson	1969-05-12	Female	mary44@hotmail.com	001-830-454-1714x1907	2016-10-15	Analyst	Contractor	5	On Leave	2023-07-16	AE074	6	37100
+E075	Sandra Hernandez	2003-04-06	Female	ryan01@hotmail.com	+1-570-128-4223x027	2018-08-07	Consultant	Contractor	2	On Leave	2022-06-26	SE075	12	62400
+E076	Benjamin Sosa	1982-11-17	Male	williamshepherd@gmail.com	001-651-819-4640	2016-03-31	Manager	Contractor	4	Terminated	2022-09-03	BE076	12	72600
+E077	Ann Gibbs	1981-12-05	Female	xavier01@romero-berry.com	+1-098-169-3121x41164	2023-10-16	Consultant	Contractor	1	Active	2024-04-09	AE077	9	43120
+E079	Thomas Morgan	1968-03-17	Male	ysmith@yahoo.com	725.483.2449x1166	2020-06-21	Analyst	Contractor	1	On Leave	2023-10-30	TE079	12	55380
+E081	Michael Fisher	1968-10-14	Male	kathleen11@hotmail.com	853-598-3714x21825	2016-02-22	Manager	Contractor	4	On Leave	2021-06-11	ME081	24	137400
+E083	Gilbert Reid	1970-02-04	Male	douglas46@yahoo.com	435.735.8452x07687	2021-02-16	Analyst	Contractor	4	Terminated	2023-05-08	GE083	9	46320
+E084	Brandon Anderson	1974-02-18	Male	benjaminrobinson@walker-parker.com	803-911-0883x0133	2023-05-12	Consultant	Contractor	3	Terminated	2023-10-03	BE084	6	31200
+E086	Joseph Patterson	1989-01-16	Male	kramerkaren@gmail.com	645-344-2279x3498	2021-08-08	Analyst	Contractor	3	Active	2023-12-18	JE086	12	65430
+E089	Veronica Olson	1970-02-24	Female	gmiller@baker-fowler.com	(060)466-1814	2018-02-12	HR Specialist	Contractor	4	Active	2023-04-03	VE089	36	193400
+E090	Brenda Holmes	1968-07-07	Female	sawyersandra@carpenter.com	-10461	2021-07-12	Consultant	Contractor	4	On Leave	2021-11-26	BE090	3	17700
+E093	Erin Chavez	1971-10-11	Female	qgriffin@yahoo.com	(328)564-4823	2016-05-30	HR Specialist	Contractor	1	Terminated	2025-07-01	EE093	36	173900
+E094	Nancy Lester	1993-04-21	Female	walteramanda@hotmail.com	207-989-0600	2022-03-13	Manager	Contractor	2	Terminated	2023-07-31	NE094	12	63250

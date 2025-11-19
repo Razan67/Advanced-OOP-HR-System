@@ -1,0 +1,33 @@
+employee_id	full_name	date_of_birth	gender	email	phone_number	hire_date	job_title	employment_type	department_id	status	last_promotion_date	Password	working_hours_per_month	rate_per_hour
+E002	Jerry Robinson	1988-04-13	Male	carpentersteven@smith-davidson.com	(598)577-4522x15508	2018-02-24	Consultant	Part-time	5	Active	2022-02-02	JE002	80	25
+E004	Ronald Washington	1966-07-14	Male	shawevan@reyes.com	+1-393-111-9937x82588	2016-02-11	Consultant	Part-time	2	Active	2022-04-09	RE004	85	25
+E006	Brian Williams	2001-03-04	Male	andre73@salazar.biz	4174494597	2016-05-05	Developer	Part-time	1	On Leave	2022-09-27	BE006	90	35
+E008	Richard Oneal	1988-03-05	Male	hayleychang@williams-miller.com	397-074-5955x500	2018-02-02	Consultant	Part-time	5	Active	2023-12-20	RE008	75	27
+E012	Phillip Watson	1978-08-15	Male	theresa25@romero-brewer.com	488.990.5669	2020-09-24	Analyst	Part-time	2	Active	2024-08-28	PE012	80	30
+E016	Amber Graves	1997-07-17	Female	jsantos@maldonado-cole.org	584.769.9703	2017-10-20	Consultant	Part-time	3	On Leave	2023-02-25	AE016	82	28
+E017	Bryan Wright	1971-08-11	Male	vstevens@yahoo.com	(805)461-0621x99898	2017-08-20	Consultant	Part-time	2	Active	2025-06-02	BE017	75	28
+E020	Susan Hughes	1982-08-27	Female	johnsonstephen@sherman-ramirez.info	+1-998-797-6059x705	2020-04-13	Consultant	Part-time	1	Active	2024-01-21	SE020	80	27
+E021	Mary Munoz	1998-03-08	Female	nicolelopez@price-martinez.com	3568395655	2018-12-14	Manager	Part-time	3	Terminated	2025-02-07	ME021	95	40
+E028	Angela Silva	1984-03-24	Female	annawatson@yahoo.com	727.552.7707	2016-01-17	HR Specialist	Part-time	2	On Leave	2021-02-08	AE028	90	30
+E033	Robert Williams	1984-12-07	Male	jharris@gmail.com	515-660-1990x62163	2022-01-09	Analyst	Part-time	4	Terminated	2023-02-25	RE033	88	30
+E034	John Aguilar	1972-03-08	Male	ahess@vang.com	001-849-652-3356x23147	2018-05-15	Analyst	Part-time	4	Terminated	2022-12-19	JE034	75	32
+E036	Johnathan Banks	2002-04-06	Male	vbenitez@cantu.org	001-319-168-3920	2019-07-04	Consultant	Part-time	2	On Leave	2021-11-16	JE036	80	26
+E037	Kelly Carter	1969-07-13	Female	lramirez@gmail.com	+1-947-244-0120x22382	2019-12-03	Developer	Part-time	4	Active	2024-04-27	KE037	76	26
+E040	Brandon Arnold	1975-08-11	Male	jpham@gonzalez-weber.info	+1-198-252-3415x6512	2016-09-15	Analyst	Part-time	4	On Leave	2021-03-19	BE040	78	35
+E050	Pamela Russell	1974-01-18	Female	cardenashector@patel.com	274.313.6385	2022-10-29	HR Specialist	Part-time	1	Terminated	2023-04-30	PE050	86	35
+E054	Emily Phillips	2001-11-22	Female	christopher60@thompson-coleman.com	9537366189	2019-08-21	Analyst	Part-time	3	Active	2023-03-13	EE054	88	25
+E061	Brittany Fletcher	1966-03-20	Female	jstrickland@gmail.com	780-074-9979x962	2015-10-04	HR Specialist	Part-time	1	On Leave	2024-01-11	BE061	84	30
+E062	Morgan Brown	1980-02-13	Male	shannon28@yahoo.com	001-949-715-5468x3938	2016-03-09	Developer	Part-time	2	Active	2022-02-06	ME062	90	40
+E063	Christine Hooper	1998-11-01	Female	xvargas@jackson-conway.biz	-3378	2022-05-25	HR Specialist	Part-time	2	Active	2022-09-02	CE063	88	30
+E064	Cynthia Serrano	1984-03-28	Female	ryanavila@hotmail.com	779.098.0158x72733	2016-05-20	Manager	Part-time	1	On Leave	2023-10-22	CE064	84	45
+E065	Sean Brown	1976-10-24	Male	perezjordan@peck-sweeney.org	+1-615-772-0007x3331	2017-01-12	Consultant	Part-time	3	On Leave	2020-10-13	SE065	76	28
+E067	Taylor Mcguire	1966-03-19	Male	hunterjackson@mcintosh.com	836027232	2019-07-29	Analyst	Part-time	1	On Leave	2024-05-02	TE067	78	33
+E068	Danielle Myers	1989-09-02	Female	dustin63@gmail.com	157-587-9930x217	2016-04-13	Developer	Part-time	5	On Leave	2021-02-03	DE068	90	36
+E082	Kimberly Johnson	1967-12-19	Female	fjones@davis.com	(209)914-3597x1325	2018-05-13	Consultant	Part-time	2	Active	2023-01-10	KE082	95	30
+E085	Jacqueline Rodriguez	1982-12-23	Female	josephjenkins@figueroa-cunningham.biz	+1-019-972-4511x94092	2016-08-05	Analyst	Part-time	4	Terminated	2021-02-21	JE085	82	25
+E087	Janet Bell	1979-03-27	Female	foxjody@lewis.com	001-796-614-1633x9454	2017-10-22	HR Specialist	Part-time	3	Active	2024-09-18	JE087	76	30
+E088	Logan Brown	1968-11-13	Male	johnhayes@holt.com	001-944-244-4610x258	2022-03-10	Manager	Part-time	2	Active	2025-02-21	LE088	78	40
+E091	Andres Butler	1984-01-02	Male	timothyduncan@simmons-khan.net	(943)099-6467x75211	2024-03-02	HR Specialist	Part-time	4	Terminated	2020-12-10	AE091	80	30
+E092	Robert David	1985-01-04	Male	gramsey@gmail.com	001-298-966-9734	2021-12-10	Manager	Part-time	5	On Leave	2021-05-25	RE092	75	38
+E096	Jesse Brown	1965-11-12	Male	cynthia52@yahoo.com	787-862-4276	2019-04-11	HR Specialist	Part-time	2	On Leave	2021-08-16	JE096	84	30
+E097	Elizabeth Whitaker	1998-11-20	Female	pwaters@young-barnes.biz	142-715-4664x95894	2016-09-19	HR Specialist	Part-time	3	On Leave	2023-03-15	EE097	80	30
