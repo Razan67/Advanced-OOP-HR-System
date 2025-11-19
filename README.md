@@ -68,8 +68,15 @@ Advanced-final/
 │       └── ... (Database and other utility classes)
 └── Dataset-20250902/
     ├── departments.txt             # Data file for departments
+    ├── employees_*.txt             # Data files for different employee types
+    └── ... (other data files)
 ```
+
+## System Architecture - Class Diagram
 # UML Diagrams
+The following Class Diagram illustrates the structure and relationships between the core components of the HR System.
+
+![HR System Class Diagram](Advanced-UML-V2.drawio.png)
 
 The design of the system is based on the Class Diagram which illustrates the relationships and structure of the classes.
 
@@ -100,8 +107,4 @@ Compile the source code:
 Run the application:
 
 The application will start the console-based HR System CLI.
-
-
-    ├── employees_*.txt             # Data files for different employee types
-    └── ... (other data files)
 
