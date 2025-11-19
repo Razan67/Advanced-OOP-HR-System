@@ -50,7 +50,7 @@ Design Patterns: Factory, Facade, Strategy
 The project is structured around the `advancedFinal` package, which contains all the core logic and classes.
 
 ```
-Advanced-final/
+Application-code/
 ├── src/
 │   └── advancedFinal/
 │       ├── Main.java               # System entry point and initialization
